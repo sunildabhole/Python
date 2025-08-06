@@ -30,3 +30,9 @@ print(b)
 a = True
 b = type(a) # <class 'bool'>
 print(b) -->
+
+Input --.
+
+to take input from the user
+
+a = input("Enter a name")

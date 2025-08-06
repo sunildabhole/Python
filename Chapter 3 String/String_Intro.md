@@ -1,0 +1,2 @@
+- String is datatype in python.
+- String is sequence of characters inclosed in quotes.
