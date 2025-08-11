@@ -1,3 +1,5 @@
+d = {} # Empty Dictionary
+
 student = {
     1:"ram",
     2:"sham",
