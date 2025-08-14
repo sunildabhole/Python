@@ -1,7 +1,7 @@
-post = ("Hey Sunil, How are you")
+post = input("Enter the post:")
 
-if("Sunil" in post):
-    print("This post talking for you")
+if("Sunil".lower() in post.lower()):
+    print("This post talking for SuniL")
 
 else:
-    print("This post not for you")
+    print("This post not for talking for SuniL.")
