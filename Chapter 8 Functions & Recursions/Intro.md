@@ -60,7 +60,7 @@
             else:
             return n* tactorial (n-1) → function calling itself
         This works as follows:
-            Factoual (4) #  Funchon called
+            Factoual (4) #  Funchon calledo
                 4x Factorial(3)
                 4x [3 x factorial (2)]
                 4 x 3 x[2 x factorial(1) function returned]
