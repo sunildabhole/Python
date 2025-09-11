@@ -1,0 +1,2 @@
+# OOP --> Solving a problem by creating a object is a one of the most popular approaches in programming. this is called "Object Oriented Programming".
+     - this concepts focuses on using reusable code (DRY Principle -- DO NOT REPEAT YOURSELF). 
