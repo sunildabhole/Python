@@ -1,0 +1,9 @@
+speechrecognition 
+pyaudio 
+setuptools
+pyttsx3
+pocketsphinx
+requests
+python-dotenv
+groq
+ollama

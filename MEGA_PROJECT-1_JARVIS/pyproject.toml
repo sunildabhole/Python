@@ -1,0 +1,17 @@
+[project]
+name = "mega-project-1-jarvis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "groq>=0.31.1",
+    "ollama>=0.5.4",
+    "pocketsphinx>=5.0.4",
+    "pyaudio>=0.2.14",
+    "python-dotenv>=1.1.1",
+    "pyttsx3>=2.99",
+    "requests>=2.32.5",
+    "setuptools>=80.9.0",
+    "speechrecognition>=3.14.3",
+]
